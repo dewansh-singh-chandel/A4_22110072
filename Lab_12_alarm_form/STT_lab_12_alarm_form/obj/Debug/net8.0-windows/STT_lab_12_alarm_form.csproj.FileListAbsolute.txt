@@ -1,0 +1,16 @@
+C:\Users\dewan\source\repos\STT_lab_12_alarm_form\STT_lab_12_alarm_form\bin\Debug\net8.0-windows\STT_lab_12_alarm_form.exe
+C:\Users\dewan\source\repos\STT_lab_12_alarm_form\STT_lab_12_alarm_form\bin\Debug\net8.0-windows\STT_lab_12_alarm_form.deps.json
+C:\Users\dewan\source\repos\STT_lab_12_alarm_form\STT_lab_12_alarm_form\bin\Debug\net8.0-windows\STT_lab_12_alarm_form.runtimeconfig.json
+C:\Users\dewan\source\repos\STT_lab_12_alarm_form\STT_lab_12_alarm_form\bin\Debug\net8.0-windows\STT_lab_12_alarm_form.dll
+C:\Users\dewan\source\repos\STT_lab_12_alarm_form\STT_lab_12_alarm_form\bin\Debug\net8.0-windows\STT_lab_12_alarm_form.pdb
+C:\Users\dewan\source\repos\STT_lab_12_alarm_form\STT_lab_12_alarm_form\obj\Debug\net8.0-windows\STT_lab_12_alarm_form.csproj.GenerateResource.cache
+C:\Users\dewan\source\repos\STT_lab_12_alarm_form\STT_lab_12_alarm_form\obj\Debug\net8.0-windows\STT_lab_12_alarm_form.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dewan\source\repos\STT_lab_12_alarm_form\STT_lab_12_alarm_form\obj\Debug\net8.0-windows\STT_lab_12_alarm_form.AssemblyInfoInputs.cache
+C:\Users\dewan\source\repos\STT_lab_12_alarm_form\STT_lab_12_alarm_form\obj\Debug\net8.0-windows\STT_lab_12_alarm_form.AssemblyInfo.cs
+C:\Users\dewan\source\repos\STT_lab_12_alarm_form\STT_lab_12_alarm_form\obj\Debug\net8.0-windows\STT_lab_12_alarm_form.csproj.CoreCompileInputs.cache
+C:\Users\dewan\source\repos\STT_lab_12_alarm_form\STT_lab_12_alarm_form\obj\Debug\net8.0-windows\STT_lab_12_alarm_form.dll
+C:\Users\dewan\source\repos\STT_lab_12_alarm_form\STT_lab_12_alarm_form\obj\Debug\net8.0-windows\refint\STT_lab_12_alarm_form.dll
+C:\Users\dewan\source\repos\STT_lab_12_alarm_form\STT_lab_12_alarm_form\obj\Debug\net8.0-windows\STT_lab_12_alarm_form.pdb
+C:\Users\dewan\source\repos\STT_lab_12_alarm_form\STT_lab_12_alarm_form\obj\Debug\net8.0-windows\STT_lab_12_alarm_form.genruntimeconfig.cache
+C:\Users\dewan\source\repos\STT_lab_12_alarm_form\STT_lab_12_alarm_form\obj\Debug\net8.0-windows\ref\STT_lab_12_alarm_form.dll
+C:\Users\dewan\source\repos\STT_lab_12_alarm_form\STT_lab_12_alarm_form\obj\Debug\net8.0-windows\AlarmClockApp.Form1.resources
