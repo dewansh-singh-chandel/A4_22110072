@@ -1,0 +1,14 @@
+C:\Users\dewan\source\repos\Lab_12_STT_2025\Lab_12_STT_2025\bin\Debug\net8.0\Lab_12_STT_2025.exe
+C:\Users\dewan\source\repos\Lab_12_STT_2025\Lab_12_STT_2025\bin\Debug\net8.0\Lab_12_STT_2025.deps.json
+C:\Users\dewan\source\repos\Lab_12_STT_2025\Lab_12_STT_2025\bin\Debug\net8.0\Lab_12_STT_2025.runtimeconfig.json
+C:\Users\dewan\source\repos\Lab_12_STT_2025\Lab_12_STT_2025\bin\Debug\net8.0\Lab_12_STT_2025.dll
+C:\Users\dewan\source\repos\Lab_12_STT_2025\Lab_12_STT_2025\bin\Debug\net8.0\Lab_12_STT_2025.pdb
+C:\Users\dewan\source\repos\Lab_12_STT_2025\Lab_12_STT_2025\obj\Debug\net8.0\Lab_12_STT_2025.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dewan\source\repos\Lab_12_STT_2025\Lab_12_STT_2025\obj\Debug\net8.0\Lab_12_STT_2025.AssemblyInfoInputs.cache
+C:\Users\dewan\source\repos\Lab_12_STT_2025\Lab_12_STT_2025\obj\Debug\net8.0\Lab_12_STT_2025.AssemblyInfo.cs
+C:\Users\dewan\source\repos\Lab_12_STT_2025\Lab_12_STT_2025\obj\Debug\net8.0\Lab_12_STT_2025.csproj.CoreCompileInputs.cache
+C:\Users\dewan\source\repos\Lab_12_STT_2025\Lab_12_STT_2025\obj\Debug\net8.0\Lab_12_STT_2025.dll
+C:\Users\dewan\source\repos\Lab_12_STT_2025\Lab_12_STT_2025\obj\Debug\net8.0\refint\Lab_12_STT_2025.dll
+C:\Users\dewan\source\repos\Lab_12_STT_2025\Lab_12_STT_2025\obj\Debug\net8.0\Lab_12_STT_2025.pdb
+C:\Users\dewan\source\repos\Lab_12_STT_2025\Lab_12_STT_2025\obj\Debug\net8.0\Lab_12_STT_2025.genruntimeconfig.cache
+C:\Users\dewan\source\repos\Lab_12_STT_2025\Lab_12_STT_2025\obj\Debug\net8.0\ref\Lab_12_STT_2025.dll
